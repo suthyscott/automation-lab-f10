@@ -1,0 +1,27 @@
+{
+  "name": "qa_playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/selenium-webdriver": "^4.0.12",
+    "chromedriver": "^91.0.0",
+    "geckodriver": "^1.22.3",
+    "jest": "^26.6.3",
+    "selenium-webdriver": "^4.0.0-beta.3",
+    "ts-node": "^9.0.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.15.0",
+    "@types/jest": "^26.0.24",
+    "babel-jest": "^27.0.6",
+    "ts-jest": "^26.5.6",
+    "typescript": "^4.3.5"
+  }
+}
